@@ -1,0 +1,52 @@
+[
+    {
+        "ID": 12345,
+        "Cover": "https://example.com/book1.jpg",
+        "Title": "The Secret Garden",
+        "Author": "Emily Johnson",
+        "Author_img": "https://example.com/emily.jpg",
+        "Posted_Date": "2023-08-20",
+        "Reading_Time": 120,
+        "Hash_Tags": ["#Mystery", "#Adventure", "#Classics"]
+    },
+    {
+        "ID": 67890,
+        "Cover": "https://example.com/book2.jpg",
+        "Title": "Lost in Time",
+        "Author": "Daniel Smith",
+        "Author_img": "https://example.com/daniel.jpg",
+        "Posted_Date": "2023-09-05",
+        "Reading_Time": 210,
+        "Hash_Tags": ["#ScienceFiction", "#TimeTravel", "#Adventure"]
+    },
+    {
+        "ID": 54321,
+        "Cover": "https://example.com/book3.jpg",
+        "Title": "Whispers in the Dark",
+        "Author": "Sarah Adams",
+        "Author_img": "https://example.com/sarah.jpg",
+        "Posted_Date": "2023-07-15",
+        "Reading_Time": 90,
+        "Hash_Tags": ["#Thriller", "#Mystery", "#Suspense"]
+    },
+    {
+        "ID": 98765,
+        "Cover": "https://example.com/book4.jpg",
+        "Title": "The Enchanted Forest",
+        "Author": "Michael Brown",
+        "Author_img": "https://example.com/michael.jpg",
+        "Posted_Date": "2023-08-02",
+        "Reading_Time": 135,
+        "Hash_Tags": ["#Fantasy", "#Adventure", "#Magic"]
+    },
+    {
+        "ID": 24680,
+        "Cover": "https://example.com/book5.jpg",
+        "Title": "Love in the City",
+        "Author": "Jessica Miller",
+        "Author_img": "https://example.com/jessica.jpg",
+        "Posted_Date": "2023-09-10",
+        "Reading_Time": 105,
+        "Hash_Tags": ["#Romance", "#Contemporary", "#LoveStory"]
+    }
+]
